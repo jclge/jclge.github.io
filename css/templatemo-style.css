@@ -838,18 +838,26 @@ textarea.form-control {
   background-color: rgba(250,250,250,0.25);
   position: relative;
 }
-.filled-bar {
+.filled-bar-50 {
   position: absolute;
   z-index: 99;
-  width: 64%;
+  width: 50%;
   height: 6px;
   background-color: #fff;
   border-radius: 3px;
 }
-.filled-bar-2 {
+.filled-bar-75 {
   position: absolute;
   z-index: 99;
-  width: 82%;
+  width: 75%;
+  height: 6px;
+  background-color: #fff;
+  border-radius: 3px;
+}
+.filled-bar-90 {
+  position: absolute;
+  z-index: 99;
+  width: 90%;
   height: 6px;
   background-color: #fff;
   border-radius: 3px;

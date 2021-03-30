@@ -2316,6 +2316,12 @@
 .fa-meetup:before {
   content: "\f2e0";
 }
+.fa-python:before {
+  content: "\f2e1";
+}
+.fa-archive:before {
+  content: "\f2e2";
+}
 .sr-only {
   position: absolute;
   width: 1px;
